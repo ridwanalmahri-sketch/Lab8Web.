@@ -1,0 +1,94 @@
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #ffffff;
+    color: #333333;
+}
+
+.container {
+    width: 100%;
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 28px;
+    margin-bottom: 25px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #dddddd;
+}
+
+.main {
+    width: 100%;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    font-size: 14px;
+}
+
+th, td {
+    border: 1px solid #cccccc;
+    padding: 8px;
+    text-align: center;
+}
+
+th {
+    background-color: #f5f5f5;
+    font-weight: bold;
+}
+
+td img {
+    width: 70px;
+    height: 60px;
+    object-fit: contain;
+}
+
+tr:hover {
+    background-color: #f9f9f9;
+}
+
+/* Form Tambah dan Ubah Barang */
+
+form {
+    width: 100%;
+    max-width: 600px;
+}
+
+.input {
+    margin-bottom: 15px;
+}
+
+.input label {
+    display: block;
+    margin-bottom: 6px;
+    font-weight: bold;
+}
+
+.input input,
+.input select {
+    width: 100%;
+    padding: 9px;
+    border: 1px solid #cccccc;
+    border-radius: 3px;
+    font-size: 14px;
+}
+
+.submit input {
+    padding: 9px 20px;
+    background-color: #eeeeee;
+    border: 1px solid #cccccc;
+    cursor: pointer;
+}
+
+.submit input:hover {
+    background-color: #dddddd;
+}
