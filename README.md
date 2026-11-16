@@ -1,5 +1,9 @@
 # Praktikum 8 – PHP dan Database MySQL
 
+` Langkah paling awal menyalakan xamppp Control Panel `
+
+<img width="1919" height="1035" alt="Screenshot 2026-11-16 193541" src="https://github.com/user-attachments/assets/e0f6b1b5-af6f-4da2-b569-7d05d34a4601" />
+
 ## Identitas Praktikan
 - Nama: M.Ridwan Al Mahri
 - NIM: 312510157
