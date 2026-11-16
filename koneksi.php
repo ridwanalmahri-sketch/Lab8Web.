@@ -1,4 +1,5 @@
 
+
 <?php
 $host = "localhost";
 $user = "root";
@@ -13,5 +14,5 @@ if ($conn == false)
     die();
 } else {
     echo "Koneksi berhasil";
-}
+}   #else echo "Koneksi berhasil";
 ?>
