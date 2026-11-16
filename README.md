@@ -5,11 +5,12 @@
 <img width="1919" height="1035" alt="Screenshot 2026-11-16 193541" src="https://github.com/user-attachments/assets/e0f6b1b5-af6f-4da2-b569-7d05d34a4601" />
 
 ## Identitas Praktikan
+```
 - Nama: M.Ridwan Al Mahri
 - NIM: 312510157
 - Program Studi: Teknik Informatika
 - Mata Kuliah: Pemrograman Web
-
+```
 ## Deskripsi
 Project ini merupakan hasil Praktikum 8 Pemrograman Web mengenai integrasi PHP dengan database MySQL. Project menggunakan database `latihan1` dan tabel `data_barang` untuk mengelola data barang melalui operasi CRUD (Create, Read, Update, Delete).
 
