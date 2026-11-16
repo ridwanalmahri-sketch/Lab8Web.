@@ -1,8 +1,8 @@
 # Praktikum 8 – PHP dan Database MySQL
 
 ## Identitas Praktikan
-- Nama: [Nama Lengkap]
-- NIM: [NIM]
+- Nama: M.Ridwan Al Mahri
+- NIM: 312510157
 - Program Studi: Teknik Informatika
 - Mata Kuliah: Pemrograman Web
 
