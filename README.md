@@ -15,6 +15,7 @@
 Project ini merupakan hasil Praktikum 8 Pemrograman Web mengenai integrasi PHP dengan database MySQL. Project menggunakan database `latihan1` dan tabel `data_barang` untuk mengelola data barang melalui operasi CRUD (Create, Read, Update, Delete).
 
 ## Teknologi yang Digunakan
+```
 - PHP
 - MySQL
 - XAMPP
@@ -22,7 +23,7 @@ Project ini merupakan hasil Praktikum 8 Pemrograman Web mengenai integrasi PHP d
 - HTML
 - CSS
 - Visual Studio Code
-
+```
 ## Langkah Pengerjaan
 
 ### 1. Membuat Database
